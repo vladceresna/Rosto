@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/reply"
+        android:title="Ответить"
+        android:contentDescription="Оветить"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/forward"
+        android:title="Переслать"
+        android:contentDescription="Переслать"
+        app:showAsAction="never" />
+</menu>
